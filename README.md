@@ -12,6 +12,9 @@ Database that stores a common plant people grow for user to compare.
 Multiple sensors monitoring one plant providing accurate status for the user.
 Real time controllable watering system with real time feedback.
 Lighting control to optimize plant growth.
+
+
+
 Project Component:
 
 Hardwares
